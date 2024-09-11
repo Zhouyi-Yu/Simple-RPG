@@ -1,41 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\",
+  "WorkspaceRootPath": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2D09D28-B123-4EC7-8D65-97A9DED7F010}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\rog\\desktop\\googledownloads\\application\\coding project\\simple-rpg\\c#-simple rpg\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2D09D28-B123-4EC7-8D65-97A9DED7F010}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2D09D28-B123-4EC7-8D65-97A9DED7F010}|SuperAdventure\\SuperAdventure.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2D09D28-B123-4EC7-8D65-97A9DED7F010}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:SuperAdventure\\SuperAdventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|c:\\users\\rog\\desktop\\googledownloads\\application\\coding project\\c#-simple rpg\\superadventure\\engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:engine\\livingcreature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|c:\\users\\rog\\desktop\\googledownloads\\application\\coding project\\c#-simple rpg\\superadventure\\engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:engine\\healingpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40EBD920-AB65-406E-B4FD-D5C43CD278F0}|Engine\\Engine.csproj|solutionrelative:Engine\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,120 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LivingCreature.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\LivingCreature.cs",
-              "RelativeDocumentMoniker": "Engine\\LivingCreature.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\LivingCreature.cs",
-              "RelativeToolTip": "Engine\\LivingCreature.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T01:41:43.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HealingPotion.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\HealingPotion.cs",
-              "RelativeDocumentMoniker": "Engine\\HealingPotion.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\HealingPotion.cs",
-              "RelativeToolTip": "Engine\\HealingPotion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-11T01:31:03.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Quest.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs",
-              "RelativeDocumentMoniker": "Engine\\Quest.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs",
-              "RelativeToolTip": "Engine\\Quest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:10:44.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs",
-              "RelativeDocumentMoniker": "Engine\\Location.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs",
-              "RelativeToolTip": "Engine\\Location.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:07:36.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Item.cs",
-              "RelativeDocumentMoniker": "Engine\\Item.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Item.cs",
-              "RelativeToolTip": "Engine\\Item.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:01:34.671Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Player.cs",
-              "RelativeDocumentMoniker": "Engine\\Player.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Player.cs",
-              "RelativeToolTip": "Engine\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T21:33:28.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Monster.cs",
-              "RelativeDocumentMoniker": "Engine\\Monster.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Monster.cs",
-              "RelativeToolTip": "Engine\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:08:31.391Z",
+              "WhenOpened": "2024-09-10T21:16:11.646Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SuperAdventure.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
-              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
-              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAiAAAAAAAAAA==",
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeDocumentMoniker": "Engine\\Quest.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeToolTip": "Engine\\Quest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T21:16:11.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T23:10:44.713Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Weapon.cs",
-              "RelativeDocumentMoniker": "Engine\\Weapon.cs",
-              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\C#-Simple RPG\\SuperAdventure\\Engine\\Weapon.cs",
-              "RelativeToolTip": "Engine\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeDocumentMoniker": "Engine\\Location.cs",
+              "ToolTip": "C:\\Users\\ROG\\Desktop\\GoogleDownloads\\Application\\coding project\\Simple-RPG\\C#-Simple RPG\\SuperAdventure\\Engine\\Location.cs",
+              "RelativeToolTip": "Engine\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T23:18:57.16Z"
+              "WhenOpened": "2024-09-10T23:07:36.268Z"
             }
           ]
         }

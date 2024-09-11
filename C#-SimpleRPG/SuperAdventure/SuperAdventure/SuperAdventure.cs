@@ -18,7 +18,10 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-            //Initialization numbers
+            //Initialization numbers, GCheck
+
+            //Location location = new Location(1, "Home", "Home, Sweet Home~~");
+            
             _player = new Player();
             _player.CurrentHitPoints = 10;
             _player.MaximumHitPoints = 10;
