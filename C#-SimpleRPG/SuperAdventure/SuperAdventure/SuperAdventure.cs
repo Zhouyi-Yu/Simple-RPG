@@ -18,7 +18,7 @@ namespace SuperAdventure
         public SuperAdventure()
         {
             InitializeComponent();
-            //Initialization numbers, GCheck
+            //Initialization numbers
 
             //Location location = new Location(1, "Home", "Home, Sweet Home~~");
             
