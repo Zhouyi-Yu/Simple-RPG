@@ -6,11 +6,19 @@ using System.Threading.Tasks;
 
 namespace Engine
 {
-    public class Player:LivingCreature 
+    public class Player : LivingCreature 
     {
         //public intergers data; get reads and set stores
         public int Gold { get; set; }
         public int ExperiencePoints { get; set; }
         public int Level { get; set; }
+
+        public  Player(int currentHitPoints, int maximumHitPoints, int gold, int experiencePoints, int level)
+            :base(currentHitPoints, maximumHitPoints)
+        {
+            Gold = gold;
+            ExperiencePoints = experiencePoints;
+            Level = level;
+        }
     }
 }

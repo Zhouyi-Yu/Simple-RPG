@@ -22,17 +22,18 @@ namespace SuperAdventure
 
             //Location location = new Location(1, "Home", "Home, Sweet Home~~");
             
-            _player = new Player();
-            _player.CurrentHitPoints = 10;
-            _player.MaximumHitPoints = 10;
-            _player.Gold = 20;
-            _player.ExperiencePoints = 0;
-            _player.Level = 1;
+            _player = new Player(10, 10, 20, 0, 1);
+
             //Write them on the UI
             lblHitPoints.Text = _player.CurrentHitPoints.ToString();
             lblGold.Text = _player.Gold.ToString();
             lblExperience.Text = _player.ExperiencePoints.ToString();
             lblLevel.Text = _player.Level.ToString();   
+        }
+
+        private void SuperAdventure_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
