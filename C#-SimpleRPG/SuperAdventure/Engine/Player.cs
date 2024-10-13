@@ -14,8 +14,9 @@ namespace Engine
         public int Level { get; set; }
         public List<InventoryItem> Inventory { get; set; }
         public List<PlayerQuest> Quests { get; set; }
+        public Location CurrentLocation { get; set; }
 
-        public  Player(int currentHitPoints, int maximumHitPoints, int gold, int experiencePoints, int level)
+        public Player(int currentHitPoints, int maximumHitPoints, int gold, int experiencePoints, int level)
             :base(currentHitPoints, maximumHitPoints)
         {
             Gold = gold;
@@ -25,6 +26,7 @@ namespace Engine
             //List: a collection of items in the same class
             Inventory = new List<InventoryItem>();
             Quests = new List<PlayerQuest>();
+
         }
     }
 }
